@@ -1,0 +1,19 @@
+{
+    "name": "utyemma/chargepro",
+    "description": "Laravel Subscriptions and payment system",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Utyemma\\ChargePro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Utibe-Abasi Emmanuel",
+            "email": "utyemma@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
